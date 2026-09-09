@@ -1,16 +1,30 @@
-## Hi there 👋
+Olá! Eu sou Henrique
 
-<!--
-**Henrique7284/Henrique7284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sou estudante de programação e estou começando minha jornada no desenvolvimento web.
 
-Here are some ideas to get you started:
+Atualmente, estou me especializando na criação de sites e aplicações web, buscando aprender cada vez mais sobre desenvolvimento, design e boas práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+- Atualmente estou aprendendo desenvolvimento web
+- Meu foco é criação de sites e aplicações web
+- Tenho interesse em desenvolvimento de interfaces bonitas e funcionais
+- Estou sempre buscando aprender novas tecnologias
+- Gosto de transformar ideias em projetos
+##
+🛠️ Tecnologias que estou estudando
+<div style="display: inline_block"><br>
+<img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</div>
+
+##
+📌 Projetos
+
+Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha jornada na programação.
+
+Cada projeto representa uma parte do meu aprendizado e da minha evolução como desenvolvedor.
+
+🎯 Meu objetivo
+
+Meu objetivo é evoluir cada vez mais como desenvolvedor web, criando sites modernos, responsivos e funcionais.
